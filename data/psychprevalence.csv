@@ -9,24 +9,24 @@ DiagnosisID,Class,Perspective,DiagnosisName,DSM_Code,ICD11,Prevalence,Prevalence
 8,1,D,Specific Learning Disorder,"315.x (00,2,1)","F81.x (0,81,2)",NA,0.04,Childhood prevalence in prevalence2
 9,1,D,Developmental Coordination Disorder,315.4,F82,NA,0.055,Childhood prevalence in prevalence2
 10,1,D,Stereotypic Movement Disorder,307.3,F98.4,NA,0.035,Childhood prevalences in prevalence2; higher with severe intellectual disability
-11,1,,Tic Disorders,"307.x (21,22,23)","F95.x (0,1,2)",0.003,0.008,Childhood prevalence in prevalence2
-12,2,,Delusional Disorder,297.1,F22,0.002,NA,lifetime prevalence was cited
-13,2,,Brief Psychotic Disorder,298.8,F23,NA,0.09,Cited as 9% of first episode psychosis presentations
-14,2,,Schizophreniform Disorder,295.4,F20.81,NA,NA,"1/5 the rate of schizophrenia,  or higher or identical to schizophrenia"
-15,2,,Schizophrenia,295.9,F20.9,0.005,NA,0.3-0.7%
-16,2,,Schizoaffective Disorder,295.7,"F25.x (0,1)",0.003,NA,Claims 1/3 the rate of schizophrenia
-17,2,,Substance-Induced Psychotic Disorder,291.9 or 292.9,various F10-F19,NA,NA,7% - 25% of first episode presentations
-18,2,,Psychotic Disorder Due to GMC,"293.8x (1,2)","F06.x (0,2)",0.0021,0.0054,Estimate in range between 0.21% and 0.54%
-19,3,,Bipolar I Disorder,296.x,F31.x,0.006,NA,12-month prevalence
-20,3,,Bipolar II Disorder,296.89,F31.81,0.003,0.008,"12-month prevalence, prevalence2 is USA, other is international"
-21,3,,Cyclothymic Disorder,301.13,F34.0,0.007,NA,Range reported as 0.4 to 1%
-22,3,,Substance-Induced Bipolar and Related Disorder,291.89 or 292.84,F1x.x,NA,NA,No epidemiological studies
+11,1,B,Tic Disorders,"307.x (21,22,23)","F95.x (0,1,2)",0.003,0.008,Childhood prevalence in prevalence2
+12,2,C,Delusional Disorder,297.1,F22,0.002,NA,lifetime prevalence was cited
+13,2,C,Brief Psychotic Disorder,298.8,F23,NA,0.09,Cited as 9% of first episode psychosis presentations
+14,2,C,Schizophreniform Disorder,295.4,F20.81,NA,NA,"1/5 the rate of schizophrenia,  or higher or identical to schizophrenia"
+15,2,C,Schizophrenia,295.9,F20.9,0.005,NA,0.3-0.7%
+16,2,C,Schizoaffective Disorder,295.7,"F25.x (0,1)",0.003,NA,Claims 1/3 the rate of schizophrenia
+17,2,B,Substance-Induced Psychotic Disorder,291.9 or 292.9,various F10-F19,NA,NA,7% - 25% of first episode presentations
+18,2,C,Psychotic Disorder Due to GMC,"293.8x (1,2)","F06.x (0,2)",0.0021,0.0054,Estimate in range between 0.21% and 0.54%
+19,3,C,Bipolar I Disorder,296.x,F31.x,0.006,NA,12-month prevalence
+20,3,C,Bipolar II Disorder,296.89,F31.81,0.003,0.008,"12-month prevalence, prevalence2 is USA, other is international"
+21,3,C,Cyclothymic Disorder,301.13,F34.0,0.007,NA,Range reported as 0.4 to 1%
+22,3,B,Substance-Induced Bipolar and Related Disorder,291.89 or 292.84,F1x.x,NA,NA,No epidemiological studies
 23,3,,Bipolar and Related Disorder Due to GMC,293.83,"F06.x (33,34)",NA,NA,No epidemiological studies; HIV mania is critical to consider
 24,4,,Disruptive Mood Dysregulation Disorder,296.99,F34.8,NA,NA,No epidemiological studies
 25,4,,Major Depressive Disorder,296.x (various),F32.x (various),0.07,NA,"US 12-month prevalence, differs by age & gender"
 26,4,,Persistent Depressive Disorder,300.4,F34.1,0.02,NA,12 month prevalence
 27,4,,Premenstrual Dysphoric Disorder,625.4,N94.3,0,0.013,12 month prevalence between 1.8 to 5.8% of menstruating women
-28,4,,Substance-Induced Depressive Disorder,291.89 OR 292.84,F1x.x,0.0026,NA,lifetime prevalence was cited
+28,4,B,Substance-Induced Depressive Disorder,291.89 OR 292.84,F1x.x,0.0026,NA,lifetime prevalence was cited
 29,4,,Depressive Disorder Due to GMC,293.83,"F06.x (31,32,34)",NA,NA,
 30,5,,Separation Anxiety Disorder,309.21,F93.0,0.014,NA,12 month prevalence
 31,5,,Selective Mutism,312.23,F94.0,0.003,NA,Unknown source
@@ -36,14 +36,14 @@ DiagnosisID,Class,Perspective,DiagnosisName,DSM_Code,ICD11,Prevalence,Prevalence
 35,5,,Panic Attack Specifier,NA,NA,0.112,NA,12-month prevalence for panic attacks in USA
 36,5,,Agoraphobia,300.22,F40.00,0.017,NA,
 37,5,,Generalized Anxiety Disorder,300.02,F41.1,0.029,0.09,"12-month prevalence in USA, prevalence2 is lifetime"
-38,5,,Substance-Induced Anxiety Disorder,291.89 or 292.89,F1x.x,0.00002,NA,12-month estimate of prevalence
+38,5,B,Substance-Induced Anxiety Disorder,291.89 or 292.89,F1x.x,0.00002,NA,12-month estimate of prevalence
 39,5,,Anxiety Disorder Due to GMC,293.84,F06.4,NA,NA,
 40,6,,Obsessive-Compulsion Disorder,300.3,F42,0.012,NA,12 month prevalence
 41,6,,Body Dysmorphic Disorder,300.7,F45.22,0.024,0.022,Prevalence2 is for males
 42,6,,Hoarding Disorder,300.3,F42,0.04,NA,Point prevalence is estimated between 2 and 6%
 43,6,,Trichotillomania,312.39,F63.3,0.015,NA,12 month prevalence between 1 and 2%
 44,6,,Excoriation,698.4,L98.1,0.014,NA,lifetime prevalence was cited
-45,6,,Substance-Induced Obsessive-Compulsive and Related Disorder,292.89,F1x.x,NA,NA,very rare
+45,6,B,Substance-Induced Obsessive-Compulsive and Related Disorder,292.89,F1x.x,NA,NA,very rare
 46,6,,Obsessive-Compulsion and Related Disorder Due to GMC,294.8,F06.8,NA,NA,
 47,7,,Reactive Attachment Disorder,313.89,F94.1,NA,NA,extremely rare
 48,7,,Disinhibited Social Engagement Disorder,313.89,F94.2,NA,NA,rare
@@ -60,12 +60,12 @@ DiagnosisID,Class,Perspective,DiagnosisName,DSM_Code,ICD11,Prevalence,Prevalence
 59,9,,Factitious Disorder,300.19,F68.10,NA,NA,1% of hospital presentations
 60,10,,Pica,307.52,F50.8,NA,NA,
 61,10,,Rumination,307.53,F98.21,NA,NA,
-62,10,,Avoidant/Restrictive Food Intake Disorder,307.59,F50.8,NA,NA,
-63,10,,Anorexia Nervosa,307.1,"F50.x (01,02)",0.0004,0.04,"Prevalence in females is given in prevalence2, prevalence in males is estimated to be 10:1"
-64,10,,Bulimia Nervosa,307.51,F50.2,0.00125,0.0125,"Prevalence in females is given in prevalence2, prevalence in males is estimated to be 10:1"
-65,10,,Binge-Eating Disorder,307.51,F50.8,0.008,NA,Prevalence is in males
-66,11,,Enuresis,307.6,F98.0,0.01,NA,"Amongst those 15 years and older, doesn't address adults"
-67,11,,Encopresis,307.7,F98.1,NA,0.01,Prevalence 2 is amongst 5 year olds
+62,10,B,Avoidant/Restrictive Food Intake Disorder,307.59,F50.8,NA,NA,
+63,10,B,Anorexia Nervosa,307.1,"F50.x (01,02)",0.0004,0.04,"Prevalence in females is given in prevalence2, prevalence in males is estimated to be 10:1"
+64,10,B,Bulimia Nervosa,307.51,F50.2,0.00125,0.0125,"Prevalence in females is given in prevalence2, prevalence in males is estimated to be 10:1"
+65,10,B,Binge-Eating Disorder,307.51,F50.8,0.008,NA,Prevalence is in males
+66,11,B,Enuresis,307.6,F98.0,0.01,NA,"Amongst those 15 years and older, doesn't address adults"
+67,11,B,Encopresis,307.7,F98.1,NA,0.01,Prevalence 2 is amongst 5 year olds
 68,12,,Insomnia Disorder,780.52,G47.00,0.08,NA,Slightly more prevalent in females 1.44:1
 69,12,,Hypersomnolence Disorder,780.54,G47.10,0.01,NA,
 70,12,,Narcolepsy,"347.x (00,01,10)","G47.x (411,419,429)",0.0003,NA,Possible slight male preponderance
@@ -83,8 +83,8 @@ DiagnosisID,Class,Perspective,DiagnosisName,DSM_Code,ICD11,Prevalence,Prevalence
 82,12,,Nightmare Disorder,307.47,F51.5,0.015,NA,
 83,12,,Rapid Eye Movement Sleep Behaviour Disorder,327.42,G47.52,0.0044,NA,
 84,12,,Restless Legs Syndromes,333.94,G25.81,0.016,NA,
-85,12,,Substance-Induced Sleep Disorder,291.82 or 292.85,F1x.y,NA,NA,
-86,13,,Delayed Ejaculation,302.74,F52.32,NA,NA,
+85,12,B,Substance-Induced Sleep Disorder,291.82 or 292.85,F1x.y,NA,NA,
+86,13,B,Delayed Ejaculation,302.74,F52.32,NA,NA,
 87,13,,Erectile Disorder,302.72,F52.21,NA,NA,13-21% of men 40-80 complain of occasional problems
 88,13,,Female Orgasmic Disorder,302.73,F52.31,0,NA,10% of women never have an orgasm during their life
 89,13,,Female Sexual Interest/Arousal Disorder,302.72,F52.22,0,NA,Unknown
